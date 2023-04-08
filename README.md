@@ -1,1 +1,1 @@
-Content is empty for this file.
+Content is empty.
