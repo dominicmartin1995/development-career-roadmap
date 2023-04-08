@@ -21,3 +21,6 @@ This .NET Backend Developer Roadmap is designed for .NET software developers of 
 The intended audience for this roadmap should have some experience with .NET development and be seeking to deepen their knowledge and expertise in backend development.
 
 Whilst this roadmap may be useful for a wide audience, it has been specifically designed for the wider backend team at Serial Affinity. 
+
+<h1>Credits</h1>
+Nick Chapsas - Generally a very useful source of .NET information and provided a base roadmap to build upon.
